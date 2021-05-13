@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Seaching Location</title>
+    <title>든든한 위치기반 범죄 지킴이</title>
     <style>
 .map_wrap, .map_wrap * {margin:0;padding:0;font-family:'Malgun Gothic',dotum,'돋움',sans-serif;font-size:12px;}
 .map_wrap a, .map_wrap a:hover, .map_wrap a:active{color:#000;text-decoration: none;}
@@ -120,7 +120,7 @@ function get_near_cctv(lat, lon){
         <div class="option">
             <div>
                 <form onsubmit="searchPlaces(); return false;">
-                    Keywords : <input type="text" value="seoul" id="keyword" size="15"> 
+                    검색어 : <input type="text" value="서울" id="keyword" size="15"> 
                     <button type="submit">Search</button> 
                 </form>
             </div>
@@ -220,13 +220,11 @@ function displayPlaces(places) {
         // 검색된 장소 위치를 기준으로 지도 범위를 재설정하기위해
         // LatLngBounds 객체에 좌표를 추가합니다
         bounds.extend(placePosition);
-        
 
         // 마커와 검색결과 항목에 mouseover 했을때
         // 해당 장소에 인포윈도우에 장소명을 표시합니다
         // mouseout 했을 때는 인포윈도우를 닫습니다
         (function(marker, title, placePosition) {
-            console.log(placePosition);
             
             kakao.maps.event.addListener(marker, 'mouseover', function() {
                 displayInfowindow(marker, title);
@@ -352,8 +350,6 @@ function displayInfowindow(marker, title) {
 	setMarkers(null);
 	markers = [];
     var content = '<div style="padding:5px;z-index:1;">' + title + '</div>';
-    console.log(marker.getPosition().getLat(), marker.getPosition().getLng());
-	// console.log(get_near_cctv(marker.getPosition().getLat(), marker.getPosition().getLng()));
 	const near_cctv = get_near_cctv(marker.getPosition().getLat(), marker.getPosition().getLng());
 	
 	for (var i = 0; i < near_cctv.length; i++) {
