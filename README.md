@@ -8,16 +8,15 @@
 
 ```
 
-# goormIDE
-Welcome to goormIDE!
+# Welcome to Team NSND!
+SW 마에스트로 해커톤 팀 "잠은죽어서자자"의 프로젝트 README 페이지입니다. 
 
-goormIDE is a powerful cloud IDE service to maximize productivity for developers and teams.  
-**DEVELOP WITH EXCELLENCE**  
+## 프로젝트 제작 배경
 
-`Happy coding! The goormIDE team`
+## 프로젝트 주요 기능
 
+## 프로젝트 참여 멤버 소개
 
-## 🔧 Tip & Guide
 
 * Command feature
 	* You can simply run your script using the shortcut icons on the top right.
