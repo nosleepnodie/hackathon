@@ -38,7 +38,8 @@ CCTV 및 비상벨, 경찰서의 위치 정보 제공을 통해 모든 사용자
 <img src="https://user-images.githubusercontent.com/76547337/118188071-d22b6080-b47a-11eb-9ecd-71e2abe13d6e.png" width="50">&nbsp;&nbsp;&nbsp;     
 **&nbsp;CCTV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;방범벨&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;경찰서**     
 
-전국CCTV표준데이터, 전국안전비상벨위치표준데이터, 경찰청 경찰관서 위치 및 주소 현황 공공데이터를 이용하여 
+전국 CCTV 표준데이터, 전국 안전 비상벨 위치 표준데이터, 경찰청 경찰관서 위치 및 주소 현황 공공데이터를 이용하여 위치 기반 검색 기능을 제공하고 있습니다.
+카카오 지도 API를 이용한 검색을 통해 CCTV, 안전 비상벨, 경찰관서 위치를 쉽고 빠르게 알아볼 수 있습니다.
 
 ## 프로젝트 팀원 소개
 |프론트|백엔드|데이터수집|
