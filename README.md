@@ -9,6 +9,7 @@
 ```
 
 # Welcome to Team NSND!
+https://user-images.githubusercontent.com/76547337/118185556-a22e8e00-b477-11eb-9b09-a1ce789d628f.png
 SW 마에스트로 해커톤 팀 "잠은죽어서자자"의 프로젝트 README 페이지입니다. 
 
 ## 프로젝트 제작 배경
