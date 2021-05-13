@@ -34,6 +34,7 @@ Node.js 기반의 웹 사이트로,
 |김형민|이주형|노기진|
 |김재영|안성은||
 
+![yellow](https://user-images.githubusercontent.com/76547337/118187614-2550e380-b47a-11eb-8163-cc538c5dc965.png)
 
 
 * Command feature
