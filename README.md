@@ -31,9 +31,10 @@ Node.js 기반의 웹 사이트로,
 ## 프로젝트 주요 기능   
 
 **화살표 색상 의미**      
-<img src="https://user-images.githubusercontent.com/76547337/118187614-2550e380-b47a-11eb-8163-cc538c5dc965.png" width="50"> - CCTV        
-<img src="https://user-images.githubusercontent.com/76547337/118187761-5d582680-b47a-11eb-8f29-623d0b458674.png" width="60"> - 방범벨     
-<img src="https://user-images.githubusercontent.com/76547337/118188071-d22b6080-b47a-11eb-9ecd-71e2abe13d6e.png" width="50"> - 경찰서    
+<img src="https://user-images.githubusercontent.com/76547337/118187614-2550e380-b47a-11eb-8163-cc538c5dc965.png" width="50"> 
+<img src="https://user-images.githubusercontent.com/76547337/118187761-5d582680-b47a-11eb-8f29-623d0b458674.png" width="60"> 
+<img src="https://user-images.githubusercontent.com/76547337/118188071-d22b6080-b47a-11eb-9ecd-71e2abe13d6e.png" width="50">    
+**CCTV 방범벨 경찰서**              
 전국CCTV표준데이터, 전국안전비상벨위치표준데이터, 경찰청 경찰관서 위치 및 주소 현황 공공데이터를 이용하여 
 
 ## 프로젝트 팀원 소개
