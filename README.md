@@ -31,6 +31,7 @@ CCTV 및 비상벨, 경찰서의 위치 정보 제공을 통해 모든 사용자
 
 
 ## 프로젝트 주요 기능   
+![발표자료1](https://user-images.githubusercontent.com/54169293/118190588-50d5cd00-b47e-11eb-9301-b142a9dfd067.png)
 
 **화살표 색상 의미**      
 <img src="https://user-images.githubusercontent.com/76547337/118187614-2550e380-b47a-11eb-8163-cc538c5dc965.png" width="50">&nbsp;&nbsp;&nbsp;
